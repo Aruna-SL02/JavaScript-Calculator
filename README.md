@@ -19,5 +19,9 @@ This project performs basic arithmetic operations with a clean and user-friendly
 - **CSS3** – Styling and layout  
 - **JavaScript** – Calculator logic
 
+## 📸 Preview
+![Calculator Preview](Calculator.png)
+
+
 
 
